@@ -15,6 +15,7 @@
 ## Technologies Utilisées
 
 👉 **Framework Frontend :** Angular
+
 👉 **Langage :** TypeScript
 👉 **Gestion des Dépendances :** npm
 👉 **Routing :** Angular Router
