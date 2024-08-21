@@ -6,18 +6,18 @@
 
 ## Fonctionnalités Principales
 
-- **Interface Utilisateur Réactive :** Créée avec Angular pour s'adapter à différents appareils et tailles d'écran.
-- **Gestion des Profils :** Permet aux utilisateurs de créer et gérer leurs profils, y compris les préférences alimentaires et les objectifs de santé.
-- **Affichage des Plans de Repas :** Visualisation des plans de repas personnalisés générés par le backend.
-- **Suivi Nutritionnel :** Suivi et affichage des apports nutritionnels quotidiens des utilisateurs.
-- **Recettes Saines :** Accès à une base de données de recettes correspondant aux préférences et besoins nutritionnels des utilisateurs.
+👉 **Interface Utilisateur Réactive :** Créée avec Angular pour s'adapter à différents appareils et tailles d'écran.
+👉 **Gestion des Profils :** Permet aux utilisateurs de créer et gérer leurs profils, y compris les préférences alimentaires et les objectifs de santé.
+👉 **Affichage des Plans de Repas :** Visualisation des plans de repas personnalisés générés par le backend.
+👉 **Suivi Nutritionnel :** Suivi et affichage des apports nutritionnels quotidiens des utilisateurs.
+👉 **Recettes Saines :** Accès à une base de données de recettes correspondant aux préférences et besoins nutritionnels des utilisateurs.
 
 ## Technologies Utilisées
 
-- **Framework Frontend :** Angular
-- **Langage :** TypeScript
-- **Gestion des Dépendances :** npm
-- **Routing :** Angular Router
+👉 **Framework Frontend :** Angular
+👉 **Langage :** TypeScript
+👉 **Gestion des Dépendances :** npm
+👉 **Routing :** Angular Router
 
 ## Structure du Projet
 
